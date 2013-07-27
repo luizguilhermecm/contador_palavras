@@ -9,6 +9,8 @@ Esse arquivo contém uma lista das palavras do arquivo
 passado por parâmentro e também a quantidade de vezes 
 em que a palavra aparece no texto.
 
+Um arquivo de saída foi adicionado nos arquivos do projeto
+como exemplo.
 
 Para compilar:  $ make FILE=nome_arquivo
 
