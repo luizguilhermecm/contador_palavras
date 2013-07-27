@@ -1,0 +1,13 @@
+Contador de palavras
+
+Dado um arquivo passado por parametro será retornado 
+um arquivo:
+
+        total_of_words.txt
+
+Esse arquivo contém uma lista das palavras do arquivo 
+passado por parâmentro e também a quantidade de vezes 
+em que a palavra aparece no texto.
+
+
+Para compilar:  $ make FILE=nome_arquivo
