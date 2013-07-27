@@ -11,3 +11,9 @@ em que a palavra aparece no texto.
 
 
 Para compilar:  $ make FILE=nome_arquivo
+
+Pre-requisitos:
+                flex
+                g++
+                make 
+                cc
