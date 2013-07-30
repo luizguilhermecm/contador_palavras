@@ -22,4 +22,10 @@ a.out: lex.yy.c
 lex.yy.c: lexico.l
 	flex  lexico.l
 
+clean:
+	$(RM) LIST_OF_WORDS
+	$(RM) contador
+	$(RM) a.out
+	$(RM) lex.yy.c
+
 
